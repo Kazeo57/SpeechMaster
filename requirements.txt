@@ -2,3 +2,5 @@ numpy==2.3.5
 matplotlib==3.10.7
 torch==2.9.1
 torchvision==0.24.1
+librosa==0.11.0
+tqdm
